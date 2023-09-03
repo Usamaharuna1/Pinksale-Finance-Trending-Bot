@@ -27,3 +27,10 @@ That's all.
 - Click Favourite Button
 - Request New Identity
 
+pinksale
+pinksale-bot
+pinksale-trending
+pinksale-finance-trending
+pinksale-finance-trending-bot
+pinksale-trending-bot
+pinksale-finance
